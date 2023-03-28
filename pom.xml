@@ -94,20 +94,20 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.84.49.142:8081/repository/paypal-releases/</url>
+	      <name>Africa United Releases Nexus Repository</name>
+	      <url>http://54.67.96.118:8081/africaunited/repository/maven-web-app-jenkins-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.84.49.142:8081/repository/paypal-snapshots/</url>
+	      <name>Africa United Snapshot Nexus Repository </name>
+	      <url>http://54.67.96.118:8081/africaunited/repository/maven-web-app-jenkins-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>paypal</finalName>
+		<finalName>maven-web-app-jenkins</finalName>
 		
 		<plugins>
 			<plugin>
