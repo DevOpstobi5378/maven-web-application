@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Africa United Releases Nexus Repository</name>
-	      <url>http://54.67.96.118:8081/africaunited/repository/maven-web-app-jenkins-release/</url>
+	      <url>http://172.31.7.40:8081/africaunited/repository/maven-web-app-jenkins-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Africa United Snapshot Nexus Repository </name>
-	      <url>http://54.67.96.118:8081/africaunited/repository/maven-web-app-jenkins-snapshot/</url>
+	      <url>http://172.31.7.40:8081/africaunited/repository/maven-web-app-jenkins-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
