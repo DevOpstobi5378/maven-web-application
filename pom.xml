@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app-jenkins</finalName>
+		<finalName>USMC_0331</finalName>
 		
 		<plugins>
 			<plugin>
